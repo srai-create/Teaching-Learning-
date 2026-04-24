@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Week 4 – Questioning & Dialogue</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>Week 4 – Questioning & Classroom Dialogue</h1>
+</header>
+
+<nav><a href="index.html">← Back to Home</a></nav>
+
+<section>
+  <h2>Key Practices</h2>
+  <ol>
+    <li>Asking strong, purposeful questions to the whole class</li>
+    <li>Building thinking time and maintaining diligence</li>
+    <li>Using cold calling for accountability</li>
+    <li>Probing and extending responses</li>
+    <li>Structured Think–Pair–Share</li>
+  </ol>
+</section>
+
+</body>
+</html>

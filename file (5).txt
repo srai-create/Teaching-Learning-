@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Week 5 – Probing Questions</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>Week 5 – Probing Questions</h1>
+</header>
+
+<nav><a href="index.html">← Back to Home</a></nav>
+
+<section>
+  <h2>Deepening Understanding</h2>
+  <ol>
+    <li>Asking open questions that invite deep thinking</li>
+    <li>Using think time and cold calling</li>
+    <li>Affirming and clarifying initial responses</li>
+    <li>Extending thinking with targeted probing</li>
+    <li>Distributing thinking around the room</li>
+    <li>Gathering evidence of collective understanding</li>
+  </ol>
+</section>
+
+</body>
+</html>

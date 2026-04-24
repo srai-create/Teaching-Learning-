@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Week 3 – Checking for Understanding</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>Week 3 – Checking for Understanding</h1>
+</header>
+
+<nav><a href="index.html">← Back to Home</a></nav>
+
+<section>
+  <h2>Techniques Covered</h2>
+  <ol>
+    <li>Using mini-whiteboards as whole-class assessment</li>
+    <li>Building thinking time and monitoring hesitation</li>
+    <li>Ensuring visible responses and effective scanning</li>
+    <li>Adapting teaching based on evidence</li>
+    <li>Vocabulary as a check for understanding</li>
+  </ol>
+</section>
+
+</body>
+</html>

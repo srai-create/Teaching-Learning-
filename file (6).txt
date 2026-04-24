@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Week 6 – Adaptive Teaching</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>Week 6 – Adaptive Teaching & Inclusion</h1>
+</header>
+
+<nav><a href="index.html">← Back to Home</a></nav>
+
+<section>
+  <h2>Core Components</h2>
+  <ol>
+    <li>Creating accessible classroom environments</li>
+    <li>Using assessment to inform adaptation</li>
+    <li>Supporting all learners while maintaining expectation</li>
+    <li>Scaffolding, fading and stepping up challenge</li>
+    <li>Inclusive practice aligned with Nishkam virtues</li>
+  </ol>
+</section>
+
+</body>
+</html>
