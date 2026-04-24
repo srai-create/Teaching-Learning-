@@ -1,1 +1,116 @@
+/* ================================
+   NISHKAM SCHOOL TRUST BRAND STYLE
+   Matching NSWL Welcome page look
+   ================================ */
 
+/* COLOURS */
+:root {
+  --nishkam-blue: #002b45;
+  --nishkam-gold: #cfa93e;
+  --cream: #f7f4e9;
+  --dark-text: #333;
+}
+
+/* GLOBAL */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 0;
+  background: var(--cream);
+  color: var(--dark-text);
+  line-height: 1.7;
+}
+
+/* HEADER BANNER */
+header {
+  background: var(--nishkam-blue);
+  color: white;
+  padding: 60px 20px 80px;
+  text-align: center;
+  position: relative;
+}
+
+/* Gold angled divider under the banner */
+header::after {
+  content: "";
+  position: absolute;
+  bottom: -40px;
+  left: 0;
+  width: 100%;
+  height: 40px;
+  background: var(--nishkam-gold);
+  clip-path: polygon(0 0, 100% 100%, 0 100%);
+}
+
+header h1 {
+  font-size: 2.4rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+header p {
+  margin-top: 10px;
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+/* NAVIGATION BAR */
+nav {
+  margin-top: 60px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+nav a {
+  color: var(--nishkam-blue);
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.05rem;
+}
+
+/* PAGE CONTENT BOX */
+section {
+  background: white;
+  padding: 40px 30px;
+  max-width: 900px;
+  margin: 60px auto 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.12);
+}
+
+h2 {
+  color: var(--nishkam-blue);
+  border-left: 6px solid var(--nishkam-gold);
+  padding-left: 12px;
+  margin-bottom: 20px;
+}
+
+/* Virtues Bar */
+.virtues {
+  background: var(--nishkam-gold);
+  color: var(--nishkam-blue);
+  font-weight: bold;
+  padding: 12px;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+/* FOOTER */
+footer {
+  background: var(--nishkam-blue);
+  color: white;
+  text-align: center;
+  padding: 25px;
+  margin-top: 30px;
+  border-top: 6px solid var(--nishkam-gold);
+  font-size: 0.95rem;
+}
