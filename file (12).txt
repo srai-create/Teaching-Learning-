@@ -1,0 +1,109 @@
+/* ====== COLOURS =========
+Nishkam Gold:    #cfa93e
+Deep Blue:       #002b45
+Soft Cream:      #f7f4e9
+Dark Text:       #333
+=========================== */
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f7f4e9;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* HEADER */
+header {
+  background: #002b45;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+  border-bottom: 8px solid #cfa93e;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  margin: 0;
+  font-weight: 500;
+}
+
+header p {
+  margin-top: 10px;
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+/* NAVIGATION */
+nav {
+  background: #cfa93e;
+  padding: 15px 20px;
+  text-align: center;
+}
+
+nav a, nav ul li a {
+  color: #002b45;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0 12px;
+  font-size: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+/* MAIN SECTION */
+section {
+  padding: 30px 20px;
+  max-width: 900px;
+  margin: auto;
+  background: white;
+  margin-top: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.08);
+}
+
+h2 {
+  color: #002b45;
+  border-left: 5px solid #cfa93e;
+  padding-left: 10px;
+}
+
+ol {
+  margin-top: 20px;
+  padding-left: 20px;
+}
+
+a {
+  color: #002b45;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 25px;
+  margin-top: 40px;
+  background: #002b45;
+  color: white;
+  font-size: 0.9rem;
+  border-top: 6px solid #cfa93e;
+}
+
+/* Virtues Bar */
+.virtues {
+  background: #cfa93e;
+  padding: 10px;
+  text-align: center;
+  color: #002b45;
+  font-weight: bold;
+  font-size: 0.95rem;
+  letter-spacing: 1px;
+}
